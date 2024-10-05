@@ -1,0 +1,46 @@
+body{
+    background-image: url("/photo/WhatsApp\ Image\ 2024-10-02\ at\ 14.06.37_e19507d5.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+div{
+   text-align: center;
+   padding: 8px;
+  
+   
+}
+h1{
+   text-align: center;
+   color: white; 
+   font-size: 50px;
+   background-color: blue;
+   
+
+  
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+   
+    color: rgb(2, 246, 79);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content:right;
+    padding-left: 20px;
+}
+li{
+    float: right;
+    padding: 15px;
+   
+}
+li:hover{
+    background-color: grey;
+}
+a{
+    color: rgb(24, 188, 203);
+}
+a:hover{
+    color: blue;
+}

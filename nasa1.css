@@ -1,0 +1,15 @@
+
+h1{   color: rgba(29, 130, 219, 0.679);
+    size: 0cm;
+    text-align: center;
+}
+body{
+    background-image:url('/photo/image20.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    font-size: 100px;
+    
+}
